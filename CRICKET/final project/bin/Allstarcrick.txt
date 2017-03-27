@@ -1,0 +1,8 @@
+Bat-100$
+Ball-24$
+Gloves-35$
+Pads-70$
+Helmet-150$
+Wickets-108$
+Jersy-200$
+shoes-45$

@@ -1,0 +1,8 @@
+Pens:4$
+Pencils:2$
+Note Books:9$
+Eraser:2$
+Stickers:1.00$
+Novels:10.00$
+Story Books:25.00$
+Kids Books:5.00$

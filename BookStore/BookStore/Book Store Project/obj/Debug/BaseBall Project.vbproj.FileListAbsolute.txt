@@ -1,0 +1,30 @@
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution\BaseBall Project\bin\Debug\BaseBall Project.exe.config
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution\BaseBall Project\obj\Debug\BaseBall_Project.Form1.resources
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution\BaseBall Project\obj\Debug\BaseBall_Project.Resources.resources
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution\BaseBall Project\obj\Debug\BaseBall Project.vbproj.GenerateResource.Cache
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution\BaseBall Project\bin\Debug\BaseBall Project.exe
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution\BaseBall Project\bin\Debug\BaseBall Project.pdb
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution\BaseBall Project\bin\Debug\BaseBall Project.xml
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution\BaseBall Project\obj\Debug\BaseBall Project.exe
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution\BaseBall Project\obj\Debug\BaseBall Project.xml
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution\BaseBall Project\obj\Debug\BaseBall Project.pdb
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution - Copy\BaseBall Project\bin\Debug\BaseBall Project.exe.config
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution - Copy\BaseBall Project\obj\Debug\BaseBall Project.exe
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution - Copy\BaseBall Project\obj\Debug\BaseBall Project.xml
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution - Copy\BaseBall Project\obj\Debug\BaseBall Project.pdb
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution - Copy\BaseBall Project\bin\Debug\BaseBall Project.exe
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution - Copy\BaseBall Project\bin\Debug\BaseBall Project.pdb
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution - Copy\BaseBall Project\bin\Debug\BaseBall Project.xml
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution - Copy\BaseBall Project\obj\Debug\BaseBall_Project.Form1.resources
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution - Copy\BaseBall Project\obj\Debug\BaseBall_Project.Resources.resources
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BaseBall Solution - Copy\BaseBall Project\obj\Debug\BaseBall Project.vbproj.GenerateResource.Cache
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BookStore\BaseBall Project\bin\Debug\BaseBall Project.exe.config
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BookStore\BaseBall Project\obj\Debug\BaseBall Project.exe
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BookStore\BaseBall Project\obj\Debug\BaseBall Project.xml
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BookStore\BaseBall Project\obj\Debug\BaseBall Project.pdb
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BookStore\BaseBall Project\bin\Debug\BaseBall Project.exe
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BookStore\BaseBall Project\bin\Debug\BaseBall Project.pdb
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BookStore\BaseBall Project\bin\Debug\BaseBall Project.xml
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BookStore\BaseBall Project\obj\Debug\BaseBall_Project.Form1.resources
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BookStore\BaseBall Project\obj\Debug\BaseBall_Project.Resources.resources
+C:\Users\lokes\Documents\Visual Studio 2012\Projects\BookStore\BaseBall Project\obj\Debug\BaseBall Project.vbproj.GenerateResource.Cache
